@@ -1,0 +1,19 @@
+{
+  "name": "tgsstdio.github.io",
+  "version": "1.0.0",
+  "description": "github.io page of tgsstdio (i.e. me)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgsstdio/tgsstdio.github.io.git"
+  },
+  "author": "David Young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgsstdio/tgsstdio.github.io/issues"
+  },
+  "homepage": "https://github.com/tgsstdio/tgsstdio.github.io#readme"
+}
